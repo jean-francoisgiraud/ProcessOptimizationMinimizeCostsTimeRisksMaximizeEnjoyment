@@ -16,8 +16,8 @@ TODe time of departure; TOAr time of arrival; TL (minutes) time lost in traffic 
 Hi= highways (y,n)  
 Way= roads bridges taken (JC, V) taken, WE weather (sun rain snow)  
 Ways:  
-- Bridges : JC Jacques cartier; VB=Victoria; CH Champlain 
-- Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sherbrooke, 
+Bridges : JC Jacques cartier; VB=Victoria; CH Champlain  
+Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sherbrooke  
 
 Lessons Learned (LL):  
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
