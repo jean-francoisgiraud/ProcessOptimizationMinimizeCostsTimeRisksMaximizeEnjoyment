@@ -5,11 +5,11 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way  
-180817, 0, 1500, , , 13s20eNdameFrontIberReneJC  
-180817, 030, 0420, 0450, 00, VB15n40w ---  
-180816, 070, 1500, 1610, 30, 13s20eJCdeLmaisoneuve  
-180816, 030, 0430, 0500, 00, VB15n40w ---  
-180815, 060, 1500, 1600, 20, 13s20eJCdeLreneL ---  
+180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (top congestion friday summer rain, shortcuts saved 60min)  
+180817, 030, 0420, 0450, 00, VB15n40w---  
+180816, 070, 1500, 1610, 30, 13s20eDeLmaisoneuveJC  
+180816, 030, 0430, 0500, 00, VB15n40w  
+180815, 060, 1500, 1600, 20, 13s20eJCdeLreneL  
 180815, 040, 0500, 0540, 00, JC.15.40  
 180814, 100, 1610, 1750, 60, coVbeginThimmensMarcelLPoirObrianJTavParcRene  
 180814, 050, 0530, 0620, 10, V stPat 13  
@@ -46,8 +46,6 @@ Way= roads bridges taken (JC, V) taken, WE weather (sun rain snow)
 Bridges : JC Jacques cartier; VB=Victoria; CH Champlain  
 Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sherbrooke  
 
-
-
 Lessons Learned (LL):  
 General LLs: moto nc700s has best suspension and resistance to bad roads potholes 
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
@@ -58,4 +56,4 @@ HB Papineau JCmay be best option during rush hour.
 JC better than V in am no train.  
 NO JTalon ReneL btw 16-18.  
 LeaveCoV-ASAP lacadie-jams.  
-Dont take Victoria Street Lachine.    
+Dont take Victoria Street in Lachine (funnels).    
