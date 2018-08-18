@@ -5,7 +5,7 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way  
-180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (top congestion friday summer rain, shortcuts saved 60min)  
+180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (topCongestion fridaySummerRain shortcutSaved60min)  
 180817, 030, 0420, 0450, 00, VB15n40w---  
 180816, 070, 1500, 1610, 30, 13s20eDeLmaisoneuveJC  
 180816, 030, 0430, 0500, 00, VB15n40w  
