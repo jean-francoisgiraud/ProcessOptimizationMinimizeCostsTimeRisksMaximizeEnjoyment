@@ -5,7 +5,7 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way  
-180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (topCongestion fridaySummerRain shortcutSaved60min)  
+180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (N-1)  
 180817, 030, 0420, 0450, 00, VB15n40w---  
 180816, 070, 1500, 1610, 30, 13s20eDeLmaisoneuveJC  
 180816, 030, 0430, 0500, 00, VB15n40w  
@@ -29,6 +29,9 @@ DatYMD, mECT, iECT, xECT, TODe, eTOA, Hi, Way
 180815, 0090, 0055, 0120, 1700, 1830, n, 40e15sChCoStLucGuyStJacqEdeLaMontVB  
 180815, 0090, 0055, 0120, 1700, 1830, n, mteeLiesse55sRueVictoNotreDaVB  
 180815, 0100, 0060, 0140, 1700, 1820, n, HB Pap JC  
+
+Notes:  
+N-1 Top congestion friday summer rain shortcuts saved 60min
 
 Commute optimization  
 Commutes LL (process optimization (minimizeTimeRisks maximizeEnjoyment))  
