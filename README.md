@@ -5,6 +5,7 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way  
+180820, 035, 0420, 0455, 00, VB15n40w---  
 180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (N-1)  
 180817, 030, 0420, 0450, 00, VB15n40w---  
 180816, 070, 1500, 1610, 30, 13s20eDeLmaisoneuveJC  
