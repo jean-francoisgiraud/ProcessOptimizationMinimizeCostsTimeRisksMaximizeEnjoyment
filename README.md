@@ -4,7 +4,8 @@ The plan is to use machine and deep learning on this data to determine and predi
 See below the data for definitions acronyms notes explanations.  
 
 Actual  
-DatYMD, CT, TODe, TOAr, TL, Way  
+DatYMD, CT, TODe, TOAr, TL, Way, LL  
+180824, 075, 1445, 1600, 25, 13s20eVB, Friday VB red but not too bad
 180821, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC---  
 180820, 035, 0420, 0455, 00, VB15n40w---  
 180820, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC---  
@@ -54,7 +55,8 @@ Bridges : JC Jacques cartier; VB=Victoria; CH Champlain
 Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sherbrooke  
 
 Lessons Learned (LL):  
-General LLs: moto nc700s has best suspension and resistance to bad roads potholes 
+General LLs: moto nc700s has best suspension and resistance to bad roads potholes  
+IF all red THEN 13-S 32av-S Victoria-E 25-S boulSt-Joseph-E  
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
 IF TOD office <1500 or >1800 THEN ECT 60min ELSE ECT 120min  
 IF TOD home <0500 THEN ECT 40min ELSE IF <0530<0600 ECT >60min  
