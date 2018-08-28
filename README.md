@@ -5,6 +5,7 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way, LL  
+180828, 110, 1500, 1650, 70, 13s32s25sSt-Patrick VB, wen VB red but not too bad from st-patrick
 180824, 075, 1445, 1600, 25, 13s20eVB, Friday VB red but not too bad
 180821, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC---  
 180820, 035, 0420, 0455, 00, VB15n40w---  
@@ -55,7 +56,8 @@ Bridges : JC Jacques cartier; VB=Victoria; CH Champlain
 Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sherbrooke  
 
 Lessons Learned (LL):  
-General LLs: moto nc700s has best suspension and resistance to bad roads potholes  
+General LLs: moto nc700s has best suspension and resistance to bad roads potholes
+Mercier may be the best fastest option  
 IF all red THEN 13-S 32av-S Victoria-E 25-S boulSt-Joseph-E  
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
 IF TOD office <1500 or >1800 THEN ECT 60min ELSE ECT 120min  
