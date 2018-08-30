@@ -5,7 +5,8 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way, LL  
-180828, 070, 1540, 1650, 30, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB  
+180830, 110, 1530, 1720, 70, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB !NO!(vinetCharl=30m)  
+180829, 070, 1540, 1650, 30, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB  
 180828, 110, 1500, 1650, 70, 13s32s25sSt-Patrick VB, when VB red but not too bad from st-patrick
 180824, 075, 1445, 1600, 25, 13s20eVB, Friday VB red but not too bad
 180821, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC---  
@@ -59,6 +60,7 @@ Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sher
 Lessons Learned (LL):  
 General LLs: moto nc700s has best suspension and resistance to bad roads potholes
 Mercier may be the best fastest option  
+180830 vinetLionelCharlevoix!!!NO!30mtogettoStPatrick  
 IF all red THEN 13-S 32av-S Victoria-E 25-S boulSt-Joseph-E  
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
 IF TOD office <1500 or >1800 THEN ECT 60min ELSE ECT 120min  
