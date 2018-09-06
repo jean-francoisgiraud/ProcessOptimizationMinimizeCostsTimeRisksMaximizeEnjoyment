@@ -5,7 +5,7 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way, LL  
-180906, 060, 1545, 1645, 20, 13s20eVB, Thursday lost <10m at 13s20e and ~15m Well-W to VB
+180906, 060, 1545, 1645, 20, 13s20eVB, Thursday lost <10m at 13s20e and ~15m Well-W to VB  
 180831, 080, 1440, 1600, 40, 13s20eNdameFrontUturnReneJC (lomg wend)  
 180830, 110, 1530, 1720, 70, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB !NO!(vinetCharl=30m)  
 180829, 070, 1540, 1650, 30, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB  
