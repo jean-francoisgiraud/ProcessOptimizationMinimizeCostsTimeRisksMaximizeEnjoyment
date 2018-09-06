@@ -5,17 +5,18 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way, LL  
-180831, 080, 1440, 1600, 40, 13s20eNdameFrontUturnReneJC (lomg wend)---  
+180906, 060, 1545, 1645, 20, 13s20eVB, Thursday lost <10m at 13s20e and ~15m Well-W to VB
+180831, 080, 1440, 1600, 40, 13s20eNdameFrontUturnReneJC (lomg wend)  
 180830, 110, 1530, 1720, 70, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB !NO!(vinetCharl=30m)  
 180829, 070, 1540, 1650, 30, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB  
 180828, 110, 1500, 1650, 70, 13s32s25sSt-Patrick VB, when VB red but not too bad from st-patrick
 180824, 075, 1445, 1600, 25, 13s20eVB, Friday VB red but not too bad
-180821, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC---  
-180820, 035, 0420, 0455, 00, VB15n40w---  
-180820, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC---  
-180820, 035, 0420, 0455, 00, VB15n40w---  
-180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC--- (N-1)  
-180817, 030, 0420, 0450, 00, VB15n40w---  
+180821, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC  
+180820, 035, 0420, 0455, 00, VB15n40w  
+180820, 055, 1500, 1555, 15, 13s20eNdameFrontUturnReneJC  
+180820, 035, 0420, 0455, 00, VB15n40w  
+180817, 070, 1500, 1610, 30, 13s20eNdameFrontUturnReneJC (N-1)  
+180817, 030, 0420, 0450, 00, VB15n40w  
 180816, 070, 1500, 1610, 30, 13s20eDeLmaisoneuveJC  
 180816, 030, 0430, 0500, 00, VB15n40w  
 180815, 060, 1500, 1600, 20, 13s20eJCdeLreneL  
