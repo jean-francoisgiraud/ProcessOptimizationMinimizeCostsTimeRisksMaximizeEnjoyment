@@ -64,7 +64,7 @@ Highways (number-direction): 13-s 20-e 15-n 40-w
 
 Lessons Learned (LL):  
 @16h delaysInMinutes(13-s:5 20-e:10 VBwell-w:15)  
-General LLs: moto nc700s has best suspension and resistance to bad roads potholes
+General LLs: moto nc700s has best suspension and resistance to bad roads potholes  
 !no! Mercier may be the best fastest option  
 180830 vinetLionelCharlevoix!!!NO!30mtogettoStPatrick  
 IF all red THEN 13-S 32av-S Victoria-E 25-S boulSt-Joseph-E  
