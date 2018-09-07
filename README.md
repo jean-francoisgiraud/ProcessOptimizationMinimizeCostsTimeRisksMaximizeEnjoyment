@@ -5,8 +5,10 @@ See below the data for definitions acronyms notes explanations.
 
 Actual  
 DatYMD, CT, TODe, TOAr, TL, Way, LL  
+180907, 035, 0415, 0450, 00, VB15n40w  
 180906, 060, 1545, 1645, 20, 13s20eVB, Thursday lost <10m at 13s20e and ~15m Well-W to VB  
-180831, 080, 1440, 1600, 40, 13s20eNdameFrontUturnReneJC (lomg wend)  
+180906, 035, 0415, 0450, 00, VB15n40w  
+180831, 080, 1440, 1600, 40, 13s20eNdameFrontUturnReneJC (long wend)  
 180830, 110, 1530, 1720, 70, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB !NO!(vinetCharl=30m)  
 180829, 070, 1540, 1650, 30, 13s20eAtwaterStJacquesVinetSLionelGrouxWCharlevoixSWellingtonVB  
 180828, 110, 1500, 1650, 70, 13s32s25sSt-Patrick VB, when VB red but not too bad from st-patrick
@@ -49,19 +51,21 @@ Baselines: (no traffic) 35kms 40min
 Best routes are identified with a ---
 
 Acronyms:  
-DatYMD date yymmdd
+DatYMD date yymmdd  
 CT commute time in minutes  
-ECT gmaps estimated commute time (mECT(median)  iECT(min) xECT(max))   
+ECT gmaps estimated commute time (mECT(median)  iECT(min) xECT(max))  
 D= day of week (m t w h f)  
 TODe time of departure; TOAr time of arrival; TL (minutes) time lost in traffic (actual time -30)  
 Hi= highways (y,n)  
-Way= roads bridges taken (JC, V) taken, WE weather (sun rain snow)  
 Bridges : JC Jacques cartier; VB=Victoria; CH Champlain  
 Roads : coV cote virtue, stC stCroix, avP avenue du Parc, Pap papineau, 138 sherbrooke  
+Way= roads bridges taken (JC, VB) taken, WE weather (sun rain snow)  
+Highways (number-direction): 13-s 20-e 15-n 40-w  
 
 Lessons Learned (LL):  
+@16h delaysInMinutes(13-s:5 20-e:10 VBwell-w:15)  
 General LLs: moto nc700s has best suspension and resistance to bad roads potholes
-Mercier may be the best fastest option  
+!no! Mercier may be the best fastest option  
 180830 vinetLionelCharlevoix!!!NO!30mtogettoStPatrick  
 IF all red THEN 13-S 32av-S Victoria-E 25-S boulSt-Joseph-E  
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
