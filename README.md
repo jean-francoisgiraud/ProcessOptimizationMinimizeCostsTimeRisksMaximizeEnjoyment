@@ -3,8 +3,14 @@ Commuting LL (Lessons Learned) (process optimization (minimizeTimeRisks maximize
 The plan is to use machine and deep learning on this data to determine and predict the best commute routes for varying TOD.   
 See below the data for definitions acronyms notes explanations.  
 
+OPTIMUMS  
+DatYMD, CT,  TODe, TOAr, TL, Way, LL  
+000000, 040, 0415, 0450, 00, VB15n40w, optimum  
+000000, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, optimum  
+
 Actual  
-DatYMD, CT, TODe, TOAr, TL, Way, LL  
+DatYMD, CT,  TODe, TOAr, TL, Way, LL  
+180910, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, monday   
 180907, 035, 0415, 0450, 00, VB15n40w  
 180906, 060, 1545, 1645, 20, 13s20eVB, Thursday lost <10m at 13s20e and ~15m Well-W to VB  
 180906, 035, 0415, 0450, 00, VB15n40w  
@@ -66,7 +72,7 @@ Lessons Learned (LL):
 @16h delaysInMinutes(13-s:5 20-e:10 VBwell-w:15)  
 General LLs: moto nc700s has best suspension and resistance to bad roads potholes  
 !no! Mercier may be the best fastest option  
-180830 vinetLionelCharlevoix!!!NO!30mtogettoStPatrick  
+180830 construction on des seigneurs st-patrick= vinet Lionel Charlevoix !!!NO! 30m toGetToStPatrick  
 IF all red THEN 13-S 32av-S Victoria-E 25-S boulSt-Joseph-E  
 180815 optimum TOD (least red) is 1500. 1800 has much more red.  
 IF TOD office <1500 or >1800 THEN ECT 60min ELSE ECT 120min  
