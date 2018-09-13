@@ -10,6 +10,7 @@ DatYMD, CT,  TODe, TOAr, TL, Way, LL
 
 Actual  
 DatYMD, CT,  TODe, TOAr, TL, Way, LL  
+180912, 070, 1550, 1700, 30, 13s20e32e15eStPatWellingtonVBosbornAlexandraChurchillEdouard, very good for a thursday  
 180912, 060, 1550, 1650, 20, 13s20eVBosbornAlexandraChurchillEdouard, wednesday  
 180910, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, monday  
 180907, 035, 0415, 0450, 00, VB15n40w  
