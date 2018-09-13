@@ -10,7 +10,8 @@ DatYMD, CT,  TODe, TOAr, TL, Way, LL
 
 Actual  
 DatYMD, CT,  TODe, TOAr, TL, Way, LL  
-180910, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, monday   
+180912, 060, 1550, 1650, 20, 13s20eVBosbornAlexandraChurchillEdouard, wednesday  
+180910, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, monday  
 180907, 035, 0415, 0450, 00, VB15n40w  
 180906, 060, 1545, 1645, 20, 13s20eVB, Thursday lost <10m at 13s20e and ~15m Well-W to VB  
 180906, 035, 0415, 0450, 00, VB15n40w  
