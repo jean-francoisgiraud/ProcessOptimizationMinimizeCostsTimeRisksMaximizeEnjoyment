@@ -1,6 +1,7 @@
 # ProcessOptimizationMinimizeCostsTimeRisksMaximizeEnjoyment
-Commuting LL (Lessons Learned) (process optimization (minimizeTimeRisks maximizeEnjoyment))
-The plan is to use machine and deep learning on this data to determine and predict the best commute routes for varying TOD.   
+Commuting LL (Lessons Learned) (process optimization (minimizeTimeRisks maximizeEnjoyment)).  
+Machine and deep learning on this data to determine and predict the best commute routes for varying TOD.
+Best TOD mtwt is 1545 f is 1430.  
 See below the data for definitions acronyms notes explanations.  
 
 OPTIMUMS  
