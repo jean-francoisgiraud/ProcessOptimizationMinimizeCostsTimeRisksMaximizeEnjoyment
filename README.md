@@ -4,9 +4,10 @@ The plan is to use machine and deep learning on this data to determine and predi
 See below the data for definitions acronyms notes explanations.  
 
 OPTIMUMS  
-DatYMD, CT,  TODe, TOAr, TL, Way, LL  
-000000, 040, 0415, 0450, 00, VB15n40w, optimum  
-000000, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, optimum  
+DayWeek, CT,  TODe, TOAr, TL, Way, LL  
+mtwtf00, 040, 0415, 0450, 00, VB15n40w,  
+mtw0000, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard,  
+thfr000, 070, 1545, 1635, 30, 13s20e32e15eStPatWellingtonVBosbornAlexandraChurchillEdouard, or if 20e is blocked  
 
 Actual  
 DatYMD, CT,  TODe, TOAr, TL, Way, LL  
