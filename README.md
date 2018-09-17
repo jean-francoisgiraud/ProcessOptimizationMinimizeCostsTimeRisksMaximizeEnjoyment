@@ -12,6 +12,8 @@ thfr000, 070, 1545, 1635, 30, 13s32s25sStPatWellingtonVBosbornAlexandraChurchill
 
 Actual  
 DatYMD, CT,  TODe, TOAr, TL, Way, LL  
+180917, 040, 0420, 0500, 00, jcB13n40e  
+180914, 075, 1430, 1545, 30, 13s20eVB, Friday  
 180912, 070, 1550, 1700, 30, 13s32s25sStPatWellingtonVBosbornAlexandraChurchillEdouard, very good for a thursday  
 180912, 060, 1550, 1650, 20, 13s20eVBosbornAlexandraChurchillEdouard, wednesday  
 180910, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard, monday  
