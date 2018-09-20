@@ -7,11 +7,12 @@ See below the data for definitions acronyms notes explanations.
 OPTIMUMS  
 DayWeek, CT,  TODe, TOAr, TL, Way, LL  
 mtwtf00, 040, 0415, 0450, 00, VB15n40w,  
-mtw0000, 050, 1545, 1635, 10, 13s20eVBosbornAlexandraChurchillEdouard,  
-thfr000, 070, 1545, 1635, 30, 13s32s25sStPatWellingtonVBosbornAlexandraChurchillEdouard, or if 20e is blocked  
+mtw0000, 050, 1545, 1635, 10, 13s20eVBvictoAve,  
+thfr000, 070, 1545, 1635, 30, 13s32s25sStPatWellingtonVB, only if 20e is badly blocked  
 
 Actual  
 DatYMD, CT,  TODe, TOAr, TL, Way, LL  
+180912, 090, 1605, 1735, 70, 13s32s25sStPatWellingtonVBosbornAlexandraChurchillEdouard,  
 180917, 040, 0420, 0500, 00, jcB13n40e  
 180914, 075, 1430, 1545, 30, 13s20eVB, Friday  
 180912, 070, 1550, 1700, 30, 13s32s25sStPatWellingtonVBosbornAlexandraChurchillEdouard, very good for a thursday  
