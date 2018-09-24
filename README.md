@@ -1,6 +1,6 @@
 # ProcessOptimizationMinimizeCostsTimeRisksMaximizeEnjoyment
 Commuting LL (Lessons Learned) (process optimization (minimizeTimeRisks maximizeEnjoyment)).  
-Machine and deep learning on this data to determine and predict the best commute routes for varying TOD.
+Machine and deep learning on this data to determine and predict the best commute routes for varying TOD.  
 Best TOD mtwt is 1545 f is 1430.  
 See below the data for definitions acronyms notes explanations.  
 
@@ -56,12 +56,10 @@ DatYMD, mECT, iECT, xECT, TODe, eTOA, Hi, Way
 180815, 0100, 0060, 0140, 1700, 1820, n, HB Pap JC  
 
 Notes:  
-N-1 Top congestion friday summer rain shortcuts saved 60min
-
+N-1 Top congestion friday summer rain shortcuts saved 60min  
 Commute optimization  
 Commutes LL (process optimization (minimizeTimeRisks maximizeEnjoyment))  
 Baselines: (no traffic) 35kms 40min  
-Best routes are identified with a ---
 
 Acronyms:  
 DatYMD date yymmdd  
@@ -86,7 +84,7 @@ IF TOD office <1500 or >1800 THEN ECT 60min ELSE ECT 120min
 IF TOD home <0500 THEN ECT 40min ELSE IF <0530<0600 ECT >60min  
 Avoiding higways at 1500 adds 30 min to CT.  
 HB Papineau JCmay be best option during rush hour.   
-JC better than V in am no train.  
+JC better than V in am no train and 15n often closed at night for construction.  
 NO JTalon ReneL btw 16-18.  
 LeaveCoV-ASAP lacadie-jams.  
-Dont take Victoria Street in Lachine (funnels).    
+Dont take Victoria Street in Lachine (funnels).  
