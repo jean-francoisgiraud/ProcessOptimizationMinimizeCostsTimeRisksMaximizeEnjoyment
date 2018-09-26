@@ -74,7 +74,7 @@ Way= roads bridges taken (JC, VB) taken, WE weather (sun rain snow)
 Highways (number-direction): 13-s 20-e 15-n 40-w  
 
 Lessons Learned (LL):  
-@16h delaysInMinutes(13-s:5 20-e:10 VBwell-w:15)  
+@16h delaysInMinutes(13-s:5 20-e:10 VBwell-w:15 VBpeelDeLaCmills:10)  
 General LLs: moto nc700s has best suspension and resistance to bad roads potholes  
 !no! Mercier may be the best fastest option  
 180830 construction on des seigneurs st-patrick= vinet Lionel Charlevoix !!!NO! 30m toGetToStPatrick  
