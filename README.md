@@ -2,12 +2,13 @@
 Commuting LL (Lessons Learned) (process optimization (minimizeTimeRisks maximizeEnjoyment)).  
 Machine and deep learning on this data to determine and predict the best commute routes for varying TOD.  
 Best TOD mtwt is 1545 f is 1430.  
+Risks are lowered (maybe at CT expense) with time by the CI of always taking the same route.  
 See below the data for definitions acronyms notes explanations.  
 
 OPTIMUMS  
 DayWeek, CT,  TODe, TOAr, TL, Way, LL  
-mtwtf00, 040, 0415, 0450, 00, VB15n40w,  
-mtw0000, 050, 1545, 1635, 10, 13s20eVBvictoAve,  
+mtwtf00, 040, 0415, 0450, 00, VB15n40w, before leaving listen to 640AM to know if 15n or JC are blocked  
+mtw0000, 050, 1545, 1635, 10, 13s20eBridgeVBvictoAve,  
 thfr000, 070, 1545, 1635, 30, 13s32s25sStPatWellingtonVB, only if 20e is badly blocked  
 
 Actual  
