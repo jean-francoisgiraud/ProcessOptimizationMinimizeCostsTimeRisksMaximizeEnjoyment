@@ -8,12 +8,12 @@ See below the data for definitions acronyms notes explanations.
 OPTIMUMS  
 DayWeek, CT,  TODe, TOAr, TL, Way, LL  
 mtwtf00, 040, 0430, 0510, 00, VB15n40w, before leaving listen to 730AM to know if 15n or JC are blocked  
-mtw0000, 055, 1545, 1655, 15, 40e15s or  
-cavendish520e15s (adds 1k 3min safer ZENer) or 13s20eBridgeVBvictoAve (old mtl adds 1k 1min ZENer)  
+mtw0000, 055, 1545, 1655, 15, cavendish520e15s(adds1k3minAferZENer)PeelDeLaComMills(adds1k1minZENer)VBvitoriaStreetJeannette116  
 thfr000, 070, 1545, 1710, 30, 13s32s25sStPatWellingtonVB, only if 40e 15s 20e are badly blocked  
 
 Actual  
-DatYMD, CT,  TODe, TOAr, TL, Way, LL  
+DatYMD, CT,  TODe, TOAr, TL, Way, LL
+181030, 090, 1615, 1735, 70, 40eCavendish520e15satwaterStJacquesDesSeigneursCentrewellintonE-VB 
 180912, 090, 1605, 1735, 70, 13s32s25sStPatWellingtonVBosbornAlexandraChurchillEdouard,  
 180917, 040, 0420, 0500, 00, jcB13n40e  
 180914, 075, 1430, 1545, 30, 13s20eVB, Friday  
